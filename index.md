@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Ph.D. Candidate at the University of Montana
+  title: Anthony Lapsansky
   text: >
       I study the evolution of diving in birds by combining methods from biomechanics, morphometrics, and evolutionary biology.
   action: # action button is optional
@@ -13,8 +13,13 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: About me
+    text: I am a scientist, a teacher, an avid outdoorsman, a gamer, and a falconer.  Growing up in Ferndale, Washington, I spent the majority of my youth outside in nature asking questions about the way things work.  Both of my parents are scientists, so I think I owe my inquisitive mindset to them. They would often ask me questions like, “Why do you think that bird has such a long tail?” or “Why might different hawks have different wing shapes?”
+
+    Those were the types of questions which occupied my mind as a kid, but I never thought I could make a career out of them. I went to Gonzaga University planning on becoming an engineer. I enjoyed math and physics and it seemed to pay well; that’s as much as I had thought about it. But after a few classes, I realized that my true passion lie in discovering new things, not just learning them.
+
+    Finally, I figured out that I could indulge my love of math and physics while also exploring the biological questions I find so fascinating — and that’s what I do now. I use robust data and careful experimentation to understand how (as an organismal biology) and why (as an evolutionary biologist) organisms do what they do.
+
     actions:
       - title: Get Started!
         url: '#'

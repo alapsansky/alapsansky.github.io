@@ -5,13 +5,13 @@
 header:
 - title: About
   url: /#about
-- title: Services
+- title: Skills
   url: /#services
 #- title: Members
 #  url: /#members
 - title: Projects
   url: /#portfolio
-- title: History
+- title: Timeline
   url: /#timeline
 - title: Contacts
   url: /#contacts
