@@ -132,11 +132,11 @@ sections:
       - image: assets/img/timeline/flightlab.jpg
         title: <b>University of Montana</b>
         text: >-
-          I joined the bird flight lab at the University of Montana in September of 2019.
+          I joined the bird flight lab at the University of Montana in September of 2016.
       - image: assets/img/timeline/seward.jpg
         title: <b>Research in Alaska</b>
         text: >-
-          I earned a Bachelors of Science in Biology with a Research Concentration and won the Robert and Claire McDonald Award for Academic Distinction.
+          I traveled to Alaska to study alcids and camped on the beach with my camera equipment during the summer of 2018. From this work, I have one paper published (below) and another in review!
       - image: assets/img/timeline/jeb.jpg
         title: <b>My first dissertation chapter is published</b>
         text: >-
