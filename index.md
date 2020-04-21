@@ -87,7 +87,7 @@ sections:
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
 
-  - type: members.html
+<!--  - type: members.html
     section_id: members
     title: Our Crew!
     background_style: bg-info text-white
@@ -116,7 +116,7 @@ sections:
         text: PR.
         image: assets/img/members/person7.jpg
         url: '#'
-
+-->
   - type: timeline.html
     section_id: timeline
     title: Major Achievements!
