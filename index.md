@@ -120,27 +120,27 @@ sections:
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: Milestones!
     background_style: bg-dark text-primary
     last_image: assets/img/timeline/timeline-end.jpg
     actions:
       - image: assets/img/timeline/gonzaga.jpg
         title: >+
-          2012-2016
           **Gonzaga University**
         text: >-
-          I earned a Bachelors of Science in Biology with a Research Concentration and won the Robert and Claire McDonald Award for Academic Distinction.
-      - image: assets/img/timeline/flightLabLogo.png
-        title: >+
-          September 2019
-          University of Montana
+          I graduated Gonzaga in 2016 with a Bachelors of Science in Biology with a Research Concentration and earned the Robert and Claire McDonald Award for Academic Distinction.
+      - image: assets/img/timeline/flightlab.jpg
+        title: <b>University of Montana</b>
         text: >-
-          I joined the bird flight lab at the University of Montana.
+          I joined the bird flight lab at the University of Montana in September of 2019.
       - image: assets/img/timeline/seward.jpg
-            title: >+
-              Studied birds in Alaska
-            text: >-
-              I conducted research in Seward, Alaska, resulting in a publication (with one more in review!).
+        title: <b>Research in Alaska</b>
+        text: >-
+          I earned a Bachelors of Science in Biology with a Research Concentration and won the Robert and Claire McDonald Award for Academic Distinction.
+      - image: assets/img/timeline/jeb.jpg
+        title: <b>My first dissertation chapter is published</b>
+        text: >-
+          The first chapter of my dissertation is published in the Journal of Experimental Biology!
 
   - type: contact.html
     section_id: contacts
