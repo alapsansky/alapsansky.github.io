@@ -122,22 +122,25 @@ sections:
     section_id: timeline
     title: Major Achievements!
     background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
+    last_image: assets/img/timeline/timeline-end.jpg
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/timeline/gonzaga.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
+          2012-2016
+          **Gonzaga University**
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
+          I earned a Bachelors of Science in Biology with a Research Concentration and won the Robert and Claire McDonald Award for Academic Distinction.
+      - image: assets/img/timeline/flightLabLogo.png
         title: >+
-          November 2019
-          An Coaching started
+          September 2019
+          University of Montana
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          I joined the bird flight lab at the University of Montana.
+      - image: assets/img/timeline/seward.jpg
+            title: >+
+              Studied birds in Alaska
+            text: >-
+              I conducted research in Seward, Alaska, resulting in a publication (with one more in review!).
 
   - type: contact.html
     section_id: contacts
