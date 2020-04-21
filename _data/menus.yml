@@ -11,6 +11,8 @@ header:
 #  url: /#members
 - title: Projects
   url: /#portfolio
+- title: Publications
+  url: /#aside
 - title: Timeline
   url: /#timeline
 - title: Contacts

@@ -14,41 +14,37 @@ sections:
     section_id: about
     background_style: bg-primary
     title: About me
-    text: I am a scientist, a teacher, an avid outdoorsman, a gamer, and a falconer.  Growing up in Ferndale, Washington, I spent the majority of my youth outside in nature asking questions about the way things work.  Both of my parents are scientists, so I think I owe my inquisitive mindset to them. They would often ask me questions like, “Why do you think that bird has such a long tail?” or “Why might different hawks have different wing shapes?”
+    text: <p>I am a scientist, a teacher, an avid outdoorsman, a gamer, and a falconer.  Growing up in Ferndale, Washington, I spent the majority of my youth outside in nature asking questions about the way things work.  Both of my parents are scientists, so I think I owe my inquisitive mindset to them. They would often ask me questions like, “Why do you think that bird has such a long tail?” or “Why might different hawks have different wing shapes?”</p><p>Those were the types of questions which occupied my mind as a kid, but I never thought I could make a career out of them. I went to Gonzaga University planning on becoming an engineer. Eventually, I figured out that I could indulge my love of math and physics while also exploring the biological questions I find so fascinating — and that’s what I do now. I use robust data and careful experimentation to understand how (as an organismal biology) and why (as an evolutionary biologist) organisms do what they do.
 
-    Those were the types of questions which occupied my mind as a kid, but I never thought I could make a career out of them. I went to Gonzaga University planning on becoming an engineer. I enjoyed math and physics and it seemed to pay well; that’s as much as I had thought about it. But after a few classes, I realized that my true passion lie in discovering new things, not just learning them.
-
-    Finally, I figured out that I could indulge my love of math and physics while also exploring the biological questions I find so fascinating — and that’s what I do now. I use robust data and careful experimentation to understand how (as an organismal biology) and why (as an evolutionary biologist) organisms do what they do.
-
-    actions:
-      - title: Get Started!
-        url: '#'
-        class: btn-light
+  #  actions:
+  #    - title: Get Started!
+  #      url: '#'
+  #    class: btn-light
 
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: My skills
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: Kinematic analysis
+        text: Analyzing movement to calculate forces and power in the real world
+        icon: fa-dove
+        #url: https://startbootstrap.com/
+      - title: Videography
+        text: High-speed videography to reveal details of animal movement
+        icon: fa-camera
+      - title: Coding
+        text: Powerful programing (in R, MatLab, C++, and for Web Programming) to answer difficult questions and share knowledge.
         icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+      - title: Computational Fluid Dynamics
+        text: Using the OpenFOAM library to uncover details of fluid dynamics
+        icon: fa-water
+      - title: Evolutionary Modeling
+        text: Using R and MatLab to study the process of evolution
+        icon: fa-code-branch
+      - title: Morphometric Analysis
+        text: Using traditional and novel methods to study shape in a comparative context
+        icon: fa-feather
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -83,13 +79,14 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
+  - type: aside.html    
     section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+    title: Publications
+    text: <p>Lapsansky, A. B., Zatz, D., Tobalske, B. W. (2020) Alcids ‘fly’ at optimal Strouhal numbers in both air and water but vary stroke velocity and stroke angle. In review at eLife.</p><p>Lapsansky, A. B. and Tobalske, B. W. (2019) Upstroke thrust is the norm for the wing-propelled swimming of alcid seabirds in shallow water. Journal of Experimental Biology.</p><p>Lapsansky, A. B., Igoe, J., Tobalske, B. W. (2019) Zebra finch (T. guttata) shift toward aerodynamically efficient flight kinematics in response to an artificial load. Biology Open.</p>
+#    actions:
+#      - title: Download Now!
+#        url: https://startbootstrap.com/themes/creative/
+#        class: btn-light
 
 # - type: members.html
 #    section_id: members
@@ -144,10 +141,8 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
-    text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+    title: Contact
+    text: Let me know if you have questions about me!
     actions:
     - title: +1 (202) 555-014
       icon: fa-phone
