@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Ph.D. Candidate at the University of Montana
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+      I study the evolution of diving in birds by combining methods from biomechanics, morphometrics, and evolutionary biology.
   action: # action button is optional
     label: Find Out More
     url: '#about'
