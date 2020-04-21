@@ -17,7 +17,7 @@ header:
   url: /#timeline
 - title: Contacts
   url: /#contacts
-- title: Links
-  url: /links
+- title: CV.pdf
+  url: assets/Lapsansky_CV_2020.pdf
 
 # changed

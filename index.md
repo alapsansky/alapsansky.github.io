@@ -51,31 +51,31 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Chapter 1
+        text: Comparing aerial and aquatic flight in alcids.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
-        text: This is a very short project description.
+      - title: Chapter 2
+        text: Studying the evolution and biomechanics of aquatic locomotion in dippers - an aquatic passerine bird.
         icon: 2.jpg
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
+      - title: Chapter 3
+        text: Using quasi-steady modeling to examine aquatic and aerial flapping in dual-medium birds.
         icon: 4.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
+      - title: Chapter 4
+        text: Deploying computational fluid dynamics to understand how bird wings function underwater.
+        icon: 3.jpg
+        url: '#'
+      - title: Chapter 5
+        text: Uncovering the effects of multi-functionality on evolution in birds.
         icon: 5.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+      - title: Chapter 6
+        text: Mapping the evolution of aquatic lifestyles across birds.
         icon: 6.jpg
         url: '#'
 
@@ -145,20 +145,18 @@ sections:
   - type: contact.html
     section_id: contacts
     title: Contact
-    text: Let me know if you have questions about me!
+    text: Let me know if you have questions about me or if you wish to collaborate!
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: mailto:anthony.lapsansky[at]umontana.edu
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: '#'
+      url: 'https://twitter.com/PhysicksofLife'
+#    - title: Facebook
+#      icon: fa-facebook
+#      icon_type: fab
+#      url: '#'
 
 ---
