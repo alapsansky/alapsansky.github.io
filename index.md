@@ -33,8 +33,8 @@ sections:
       - title: Videography
         text: High-speed videography to reveal details of animal movement
         icon: fa-camera
-      - title: Coding
-        text: Powerful programing (in R, MatLab, C++, and for Web Programming) to answer difficult questions and share knowledge.
+      - title: Programming
+        text: Concise coding (in R, MatLab, C++, and for Web Programming) to answer difficult questions and share knowledge
         icon: fa-laptop-code
       - title: Computational Fluid Dynamics
         text: Using the OpenFOAM library to uncover details of fluid dynamics
