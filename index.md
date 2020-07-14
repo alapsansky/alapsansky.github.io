@@ -82,7 +82,7 @@ sections:
   - type: aside.html    
     section_id: aside
     title: Publications
-    text: <p>Lapsansky, A. B., Zatz, D., Tobalske, B. W. (2020) Alcids ‘fly’ at optimal Strouhal numbers in both air and water but vary stroke velocity and stroke angle. In review at eLife.</p><p>Lapsansky, A. B. and Tobalske, B. W. (2019) Upstroke thrust is the norm for the wing-propelled swimming of alcid seabirds in shallow water. Journal of Experimental Biology.</p><p>Lapsansky, A. B., Igoe, J., Tobalske, B. W. (2019) Zebra finch (T. guttata) shift toward aerodynamically efficient flight kinematics in response to an artificial load. Biology Open.</p>
+    text: <p>Lapsansky, A. B., Zatz, D., Tobalske, B. W. (2020) Alcids ‘fly’ at efficient Strouhal numbers in both air and water but vary stroke velocity and angle. eLife.</p><p>Lapsansky, A. B. and Tobalske, B. W. (2019) Upstroke thrust is the norm for the wing-propelled swimming of alcid seabirds in shallow water. Journal of Experimental Biology.</p><p>Lapsansky, A. B., Igoe, J., Tobalske, B. W. (2019) Zebra finch (T. guttata) shift toward aerodynamically efficient flight kinematics in response to an artificial load. Biology Open.</p>
 #    actions:
 #      - title: Download Now!
 #        url: https://startbootstrap.com/themes/creative/
