@@ -7,7 +7,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.2.0"
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+gem "github-pages", "~> 214"
+
+gem "jekyll", "~> 3.9.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"
 gem "jekyll-theme-hydeout", "~> 4.2"
@@ -22,7 +26,7 @@ end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", "~> 1.2.9"
   gem "tzinfo-data"
 end
 
