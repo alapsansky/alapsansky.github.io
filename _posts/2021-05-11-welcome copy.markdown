@@ -6,7 +6,7 @@ excerpt_separator:  <!--more-->
 
 I made this website to showcase some of my bigger projects. Occassionally, I will blog about what's going on in my life, but if you want more continuous updates, consider following me on twitter at [@PhysicksofLife](https://twitter.com/PhysicksofLife). I tweet about my publications, presentations, and things of that nature on a more regular basis.
 
-![Profile picture](/assets/profile.jpg)
+![Profile picture](alapsansky/alapsansky.github.io/assets/images/profile.jpg)
 
 ## Research
 
