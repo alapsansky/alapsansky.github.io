@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+#git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "github-pages", "~> 214"
 
