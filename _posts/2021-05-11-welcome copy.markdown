@@ -1,9 +1,7 @@
 ---
-layout: category
-title:  "Welcome to my personal website"
-date:   2021-05-06 13:55:55 -0600
-categories: welcome
-tag: welcome
+layout: post
+title: Hello!
+excerpt_separator:  <!--more-->
 ---
 
 I made this website to showcase some of my bigger projects. Occassionally, I will blog about what's going on in my life, but if you want more continuous updates, consider following me on twitter at [@PhysicksofLife](https://twitter.com/PhysicksofLife). I tweet about my publications, presentations, and things of that nature on a more regular basis.

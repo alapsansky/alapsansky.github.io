@@ -28,12 +28,27 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PhysicksofLife
 github_username:  alapsansky
 
+author:
+  name:           'Anthony Lapsansky'
+  url:            https://twitter.com/PhysicksofLife
+
 # Build settings
 theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
+paginate: 3
+
 plugins:
   - jekyll-feed
-paginate: 3
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
