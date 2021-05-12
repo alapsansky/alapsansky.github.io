@@ -35,7 +35,7 @@ author:
   url:            https://twitter.com/PhysicksofLife
 
 # Build settings
-theme: jekyll-theme-hydeout
+#theme: jekyll-theme-hydeout #uncomment for local testing
 remote_theme: fongandrew/hydeout
 paginate: 3
 
