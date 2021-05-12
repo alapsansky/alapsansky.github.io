@@ -13,7 +13,7 @@ categories: blog
 
 I don’t answer. My eyes lock on the rhinoceros auklet standing on the edge of the rocks. She’s spent the last ten minutes scaling the mottled gray cliff on the north wall of the seabird exhibit and I’ve been tracking her every step. I’m leaving the Alaska SeaLife Center tomorrow, whether I gather all the data I need or not, and I’ve yet to catch any flights of this rotund little seabird as it takes flight.
 
-![Alaska Blog Photos](../assets/images/alaskaBlogPhotos.png)
+![Alaska Blog Photos](https://lapsansky.org/assets/images/alaskaBlogPhotos.png)
 
 That was June 2018. As part of my graduate studies in the Flight Laboratory at the University of Montana, I had made the long trip to Seward to study the alcids at the Alaska SeaLife Center for my dissertation project. The goal? To record high-speed video of five species of alcids (common murres, horned puffins, pigeon guillemots, rhinoceros auklets, and tufted puffins) swimming underwater and flying in the air to figure out how their wings can function in two very different fluids.
 
