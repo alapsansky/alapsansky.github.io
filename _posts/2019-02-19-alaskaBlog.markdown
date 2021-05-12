@@ -13,11 +13,11 @@ categories: blog
 
 I don’t answer. My eyes lock on the rhinoceros auklet standing on the edge of the rocks. She’s spent the last ten minutes scaling the mottled gray cliff on the north wall of the seabird exhibit and I’ve been tracking her every step. I’m leaving the Alaska SeaLife Center tomorrow, whether I gather all the data I need or not, and I’ve yet to catch any flights of this rotund little seabird as it takes flight.
 
-![Alaska Blog Photos](/assets/images/alaskaBlogPhotos.png)
+![Alaska Blog Photos](../assets/images/alaskaBlogPhotos.png)
 
 That was June 2018. As part of my graduate studies in the Flight Laboratory at the University of Montana, I had made the long trip to Seward to study the alcids at the Alaska SeaLife Center for my dissertation project. The goal? To record high-speed video of five species of alcids (common murres, horned puffins, pigeon guillemots, rhinoceros auklets, and tufted puffins) swimming underwater and flying in the air to figure out how their wings can function in two very different fluids.
 
-![Murres on the water](/assets/images/murres.jpg)
+![Murres on the water](../assets/images/murres.jpg)
 
 You see, in the world of seabirds, alcids are fascinating in that they are very adept at swimming underwater but also have retained their ability to fly. Traditional wisdom states that birds should only good at one or the other. Penguins, for example, can dive up to 600 meters (~2000 ft) – so deep that almost no light reaches their eyes and the water is bitter cold – but they’ve lost their ability to fly. They have tiny wings and huge bodies; wings which can only be used for swimming and bodies which are large to increase their oxygen-storage capacity and reduce heat loss.
 
@@ -29,7 +29,7 @@ My work used videos of the birds at the Alaska SeaLife Center to try to answer t
 
 Producing force on both halves of the wingbeat cycle is more efficient than only producing force on the downstroke. This is because the more consistently an animal can produce force for propulsion, the less energy it must use to maintain its speed.
 
-![Upstroke and downstroke](/assets/images/strokes.png)
+![Upstroke and downstroke](../assets/images/strokes.png)
 
 That’s why your car gets better gas mileage when you use cruise control on long drives. If you control the gas pedal yourself, you end up wasting fuel on pointless accelerations. You speed up, slow down, speed up, slow down, all to maintain the same average speed. Every time you speed up it takes energy, and you don’t get that energy back when you hit the brakes 5 seconds later. But the cruise control feature keeps your speed consistent by keeping the force produced by the engine consistent. Consistent force = consistent speed à less energy wasted on acceleration à greater efficiency.
 
