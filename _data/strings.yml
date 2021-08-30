@@ -104,15 +104,15 @@ tinyletter:
   label:               Email
   placeholder:         Enter your email address
   button:              Subscribe
-  message:             |
-    Pay the *iron price* for this theme by adding yourself to the mailing list.
-    Receive development updates, advanced tutorials,
-    and anything else I can come up with as it relates to **Hydejack**.
+  message:   #          |
+    # Pay the *iron price* for this theme by adding yourself to the mailing list.
+    # Receive development updates, advanced tutorials,
+    # and anything else I can come up with as it relates to **Hydejack**.
 
-    <!--form-->
+    # <!--form-->
 
-    No 3rd party products, no spam. Emails handled by [Tinyletter](https://tinyletter.com/)
-    {:.faded}
+    # No 3rd party products, no spam. Emails handled by [Tinyletter](https://tinyletter.com/)
+    # {:.faded}
 
 welcome:
   more_projects:       See <!--projects_title--> for more
@@ -124,7 +124,7 @@ resume:
   email:               Email
   phone:               Phone
   website:             Website
-  work:                Experience
+  work:                Eduction and Training
   work_title:          <!--position--> at <!--company-->
   highlights:          Highlights
   volunteer:           Volunteer
@@ -135,7 +135,7 @@ resume:
   awards:              Awards
   awards_title:        <!--title--> from <!--awarder-->
   publications:        Publications
-  publications_title:  <!--name--> by <!--publisher-->
+  publications_title:  <!--name--> in <!--publisher-->
   references:          References
   languages:           Languages
   fluency:             Fluency

@@ -17,7 +17,7 @@
         {% capture position %}<span class="bc">{{ vol.position }}</span>{% endcapture %}
         {% capture organization %}{% include components/link.html title=vol.organization href=vol.website span_class="bc" %}{% endcapture %}
         {{ strings.resume.volunteer_title
-          | default:"<!--position--> at <!--organization-->"
+          | default:"<!--position--> for <!--organization-->"
           | replace:"<!--position-->", position
           | replace:"<!--organization-->", organization
         }}

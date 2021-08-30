@@ -45,7 +45,7 @@ description:           >
   I study the pattern and process of biology by combining methods from
   biomechanics, morphometrics, evolutionary biology & neurobiology. 
 # A shorter description for the sidebar.
-tagline:               Scientist
+tagline:               
 
 # A list of keywords for your blog
 keywords:              []
@@ -61,18 +61,18 @@ author:
   name:                Anthony Lapsansky
   email:               tony.lapsansky@gmail.com
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             PhysicksofLife
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
   - title:             Projects
     url:               /projects/
-  - title:             Curriculum Vitae
-    url:               /cv/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Blog
+    url:               /blog/
+  - title:             Résumé*
+    url:               /resume/
+  - title:             "Laboratory"
+    url:               https://altshuler.zoology.ubc.ca/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -183,6 +183,14 @@ kramdown:
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
 
+
+# hydejack:
+#   dark_mode:
+#     dynamic: true
+#     sunrise: 6
+#     sunset:  18
+#     icon:    true
+#     always:  false
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
