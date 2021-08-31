@@ -43,7 +43,7 @@
   ], 
   "documents": [
     {
-      "image": "/assets/img/blog/murre-blur-image.jpg",
+      "image": {"path":"/assets/img/blog/murre-blur-image.jpg"},
       "title": "FLY LIKE A BIRD, SWIM LIKE A PENGUIN",
       "date": "2019-02-19 11:55:55 -0800",
       "description": "My travels to Alaska to study alcids.\n",

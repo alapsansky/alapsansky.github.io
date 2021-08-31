@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.1.4--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2021-08-30T16:13:24-07:00--sw/";
+const CONTENT_CACHE = "content--2021-08-30T21:16:39-07:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -115,22 +115,25 @@ const STATIC_FILES = [
   /**/"/assets/img/personal/profile-image.jpg",
   /**/"/assets/img/personal/profile.jpg",
   /**/"/assets/img/personal/profile.png",
+  /**/"/assets/img/projects/behavioral-review/peter-scholten.jpg",
+  /**/"/assets/img/projects/behavioral-review/table-image.jpg",
   /**/"/assets/img/projects/dual-medium-kinematics/20180718_084628.jpg",
   /**/"/assets/img/projects/dual-medium-kinematics/seward-selfie-image-1216.JPG",
   /**/"/assets/img/projects/dual-medium-kinematics/seward-selfie-image-1732.JPG",
   /**/"/assets/img/projects/dual-medium-kinematics/seward-selfie-image-1980.JPG",
   /**/"/assets/img/projects/dual-medium-kinematics/seward-selfie-image-480.JPG",
   /**/"/assets/img/projects/dual-medium-kinematics/seward-selfie-image.JPG",
+  /**/"/assets/img/projects/nsf-postdoc/figure2.jpg",
   /**/"/assets/img/projects/nsf-postdoc/raspberry-pi2-image.jpg",
   /**/"/assets/img/projects/nsf-postdoc/raspberrypi-image-1137.jpg",
   /**/"/assets/img/projects/nsf-postdoc/raspberrypi-image-1620.jpg",
   /**/"/assets/img/projects/nsf-postdoc/raspberrypi-image-1980.jpg",
   /**/"/assets/img/projects/nsf-postdoc/raspberrypi-image-480.jpg",
   /**/"/assets/img/projects/nsf-postdoc/raspberrypi-image.jpg",
-  /**/"/assets/img/projects/quasi-steady-modeling/20190515_153046.jpg",
   /**/"/assets/img/projects/quasi-steady-modeling/20200429_135851.mp4",
   /**/"/assets/img/projects/quasi-steady-modeling/20200814_171212.jpg",
   /**/"/assets/img/projects/quasi-steady-modeling/20200815_171342.jpg",
+  /**/"/assets/img/projects/quasi-steady-modeling/oven.jpg",
   /**/"/assets/img/projects/quasi-steady-modeling/wing-drying-image-1437.jpg",
   /**/"/assets/img/projects/quasi-steady-modeling/wing-drying-image-190.jpg",
   /**/"/assets/img/projects/quasi-steady-modeling/wing-drying-image-1980.jpg",
