@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/resources/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/projects_folder/project_dragonflies/index.html",
+      "/research/projects_folder/project_eyeMovements/index.html",
+      "/research/projects_folder/project_transmitterDesign/index.html",
+      "/research/projects_folder/project_pigeons/index.html",
+      "/research/projects_folder/project_wingEvolution/index.html"
+    ]
+  }
+]
