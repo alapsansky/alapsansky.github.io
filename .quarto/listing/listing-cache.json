@@ -1,0 +1,23 @@
+{
+  "listingMap": {
+    "projects\\index.qmd": [
+      "projects.yml",
+      "projects_folder"
+    ],
+    "projects.qmd": [
+      "projects"
+    ],
+    "research.qmd": [
+      "projects"
+    ],
+    "resources.qmd": [
+      "resources.yml"
+    ],
+    "resources\\index.qmd": [
+      "resources.yml"
+    ],
+    "research\\index.qmd": [
+      "projects_folder"
+    ]
+  }
+}

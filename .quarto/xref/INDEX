@@ -1,0 +1,74 @@
+{
+  "index.qmd": {
+    "index.html": "35e60f35"
+  },
+  "blog/first-post/index.qmd": {
+    "index.html": "a16c8278"
+  },
+  "blog/second-post/index.qmd": {
+    "index.html": "177f6966"
+  },
+  "blog/third-post/index.ipynb": {
+    "index.html": "a652a2fd"
+  },
+  "projects/index.qmd": {
+    "index.html": "f33e7f87"
+  },
+  "presentations.qmd": {
+    "presentations.html": "fcf82726"
+  },
+  "publications.qmd": {
+    "publications.html": "b0657b74"
+  },
+  "curriculum_vitae.qmd": {
+    "curriculum_vitae.html": "da1d5238"
+  },
+  "avian_gaze.qmd": {
+    "avian_gaze.html": "589bdcb7"
+  },
+  "projects.qmd": {
+    "projects.html": "b6cac9a8"
+  },
+  "research.qmd": {
+    "research.html": "293f3b71"
+  },
+  "publications_backup.qmd": {
+    "publications_backup.html": "b48a2b4b"
+  },
+  "resources.qmd": {
+    "resources.html": "9b11a794"
+  },
+  "resources/index.qmd": {
+    "index.html": "9d0ee066"
+  },
+  "projects/projects_folder/project_transmitterDesign/index.qmd": {
+    "index.html": "87aec9c6"
+  },
+  "projects/projects_folder/project_dragonflies/index.qmd": {
+    "index.html": "8b35ae82"
+  },
+  "projects/projects_folder/project_pigeons/index.qmd": {
+    "index.html": "76a90001"
+  },
+  "projects/projects_folder/project_wingEvolution/index.qmd": {
+    "index.html": "993f60b4"
+  },
+  "research/index.qmd": {
+    "index.html": "adec3be5"
+  },
+  "research/projects_folder/project_dragonflies/index.qmd": {
+    "index.html": "1aabe679"
+  },
+  "research/projects_folder/project_eyeMovements/index.qmd": {
+    "index.html": "5c42a1b8"
+  },
+  "research/projects_folder/project_pigeons/index.qmd": {
+    "index.html": "9adf42a7"
+  },
+  "research/projects_folder/project_transmitterDesign/index.qmd": {
+    "index.html": "5f6c8f8c"
+  },
+  "research/projects_folder/project_wingEvolution/index.qmd": {
+    "index.html": "45f8fdd2"
+  }
+}

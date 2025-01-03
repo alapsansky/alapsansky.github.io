@@ -1,0 +1,39 @@
+---
+title: Visual control of flight in free-flying pigeons
+image: banner_pigeon.png
+title-block-banner: "#00000000"
+title-block-banner-color: "rgba(255, 255, 255, 0)"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: rgba(255, 255, 255);
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0; /* hide */
+      }
+      #title-block-header {
+        background: 
+          /* top, transparent black, faked with gradient */
+          linear-gradient(
+            rgba(0, 0, 0, 0.2),
+            rgba(0, 0, 0, 0.2)
+          ),
+          /* bottom, image */ 
+          url(./banner_pigeon_long.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 400px;
+        opacity: 1; /* image opacity, lower means lighter */
+        z-index: -1;
+      }
+      </style>
+---
+
+# Visual control of flight in free-flying pigeons
+
+Vision is crucial for diurnal animals to control flight. Studies in birds, insects, mammals, and non-avian reptiles corroborate that visual information is essential for flying animals to negotiate tight and obstructed spaces, regulate speed, manage contact with surfaces, capture prey, navigate long distances, and maintain position. Yet our understanding of how animals discern critical visual cues from a myriad of available options and encode that information to control behavior remains limited. A significant obstacle in advancing our understanding of this process is the scarcity of empirical data describing the visual stimuli that flying animals encounter in their natural habitats. To address this knowledge gap, I developed a head-mounted camera system to record the visual environment and oculomotor behavior of free-flying homing pigeons.
+
+{{< video freeflight.mp4 >}}
+
+This project has entered the writing phase, but I am looking to develop these devices further for use on other species and to ask more questions about visual control of free-flight!

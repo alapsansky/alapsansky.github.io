@@ -1,0 +1,44 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/projects_folder/project_dragonflies/index.html",
+      "/projects/projects_folder/project_eyeMovements/index.html",
+      "/projects/projects_folder/project_wingEvolution/index.html",
+      "/projects/projects_folder/project_transmitterDesign/index.html",
+      "/projects/projects_folder/project_pigeons/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/projects/index.html"
+    ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": [
+      "avian_gaze.html"
+    ]
+  },
+  {
+    "listing": "/resources/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/projects_folder/project_dragonflies/index.html",
+      "/research/projects_folder/project_eyeMovements/index.html",
+      "/research/projects_folder/project_transmitterDesign/index.html",
+      "/research/projects_folder/project_pigeons/index.html",
+      "/research/projects_folder/project_wingEvolution/index.html"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+---
+title: Resources
+listing:
+  contents: resources.yml
+  type: table
+  max-description-length: 250
+  sort:
+     - "title desc"
+---

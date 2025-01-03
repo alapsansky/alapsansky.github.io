@@ -1,0 +1,49 @@
+---
+title: Eye movements in birds
+image: banner_brain.jpg
+title-block-banner: "#00000000"
+title-block-banner-color: "rgba(255, 255, 255, 0)"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: rgba(255, 255, 255);
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0; /* hide */
+      }
+      #title-block-header {
+        background: 
+          /* top, transparent black, faked with gradient */
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          /* bottom, image */ 
+          url(./banner_brain.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 400px;
+        opacity: 1; /* image opacity, lower means lighter */
+        z-index: -1;
+      }
+      </style>
+---
+
+
+# Eye movements in birds
+
+This part of my website is a work in progress. For some insight into this work, check out the publication in Proceedings of the Royal Society: B, listed under publications.
+
+![](hummingbirdEye.jpg)
+
+
+
+
+![](hummingbirdOKR.jpg)
+
+
+:::
+
+
+

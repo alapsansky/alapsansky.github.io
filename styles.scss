@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+/* Colors */
+$body-bg: #FFFFFF;
+$body-color: rgb(55, 58, 60);
+$link-color: rgb(39, 128, 227);
+
+/* Fonts */
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 17px;
+
+/* PDF button */
+
+.btn-red-rounded {
+    background-color: #ff4500; /* Bright red color */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    border-radius: 12px; /* Rounded edges */
+    padding: 0.2em 0.6em; /* Adjust padding for size */
+    font-size: 0.9em; /* Slightly smaller font size */
+    text-decoration: none; /* Remove underline */
+    display: inline-block;
+}
+
+.btn-red-rounded:hover {
+    background-color: #e63939; /* Darker red on hover */
+}
