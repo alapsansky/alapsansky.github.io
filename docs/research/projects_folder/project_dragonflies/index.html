@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Dragonflies and damselflies as sentinels of cyanotoxins – Home</title>
+<title>Home - Dragonflies and damselflies as sentinels of cyanotoxins</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -111,7 +111,7 @@ background: #00000000;
 </style>
 
 
-<meta property="og:title" content="Dragonflies and damselflies as sentinels of cyanotoxins – Home">
+<meta property="og:title" content="Home - Dragonflies and damselflies as sentinels of cyanotoxins">
 <meta property="og:description" content="">
 <meta property="og:image" content="dragonfly_banner.jpg">
 <meta property="og:site_name" content="Home">
@@ -129,7 +129,7 @@ background: #00000000;
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -148,7 +148,7 @@ background: #00000000;
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+          <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -187,7 +187,7 @@ background: #00000000;
 <p>In addition to being critical components of the landscape, freshwater ecosystems provide drinking water, irrigation, and recreation. For Indigenous communities, these environments are also key to climate resiliency and food sovereignty, directly and indirectly supplying resources necessary for subsistence, ceremonial, and commercial harvests. The prevalence of harmful blue-green algae and their biotoxins are increasing rapidly, with a 5-fold increase in cyanotoxin events reported in the US over the last 10 years. It is, therefore, crucial to determine how cyanotoxins affect insects, the extent to which insects transfer cyanotoxins through food webs, and which traits predispose species to cyanotoxin susceptibility.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="freshwater_HABs.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Freshwater cyanotoxin advisories and closures have risen 500% in United States in 10 years. Data from US EPA."><img src="freshwater_HABs.png" class="img-fluid figure-img" alt="Freshwater cyanotoxin advisories and closures have risen 500% in United States in 10 years. Data from US EPA."></a></p>
+<p><a href="freshwater_HABs.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Freshwater cyanotoxin advisories and closures have risen 500% in United States in 10 years. Data from US EPA."><img src="freshwater_HABs.png" class="img-fluid figure-img" alt="Freshwater cyanotoxin advisories and closures have risen 500% in United States in 10 years. Data from US EPA."></a></p>
 <figcaption>Freshwater cyanotoxin advisories and closures have risen 500% in United States in 10 years. Data from US EPA.</figcaption>
 </figure>
 </div>
@@ -204,7 +204,7 @@ background: #00000000;
 <div aria-describedby="fig-odonates-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-odonates" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div id="fig-dragon" class="quarto-float quarto-figure quarto-figure-center anchored">
+<div id="fig-dragon" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-subfloat-fig figure">
 <div aria-describedby="fig-dragon-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="dragonfly_banner.jpg" class="img-fluid figure-img" data-ref-parent="fig-odonates">
@@ -216,7 +216,7 @@ background: #00000000;
 </div>
 </div>
 <div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-odonates" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div id="fig-damsel" class="quarto-float quarto-figure quarto-figure-center anchored">
+<div id="fig-damsel" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-subfloat-fig figure">
 <div aria-describedby="fig-damsel-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="damselfly.jpg" class="img-fluid figure-img" data-ref-parent="fig-odonates">
@@ -236,6 +236,9 @@ Figure&nbsp;1: Juvenile odonates tangled in filaments of cyanotoxin-producing ha
 </div>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Freshwater cyanotoxin advisories and closures have risen 500% in United States in 10 years. Data from US EPA.</span>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -274,7 +277,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const onCopySuccess = function(e) {
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -306,29 +320,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
   });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -336,7 +328,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -673,37 +665,30 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","selector":".lightbox","loop":false,"descPosition":"bottom","closeEffect":"zoom"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","loop":false,"selector":".lightbox","openEffect":"zoom","closeEffect":"zoom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
         }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
       }
-    });
-  
-  };
-  
-})();
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
           </script>
 
 

@@ -2,33 +2,37 @@
 title: "Publications"
 ---
 
+## 2026
+-   **Lapsansky, A. B.**, Wylie, D. R. and Altshuler, D. L. (2026). [Pigeons make slow, divergent eye movements during flight and large, convergent eye movements when landing.](https://doi.org/10.1016/j.cub.2026.06.015) Current Biology 36, 1-10. [PDF](pdfs/2026_lapsansky_pigeons.pdf){.btn-red-rounded .external target="_blank"} 
+
+
+## 2025
+
+-   **Lapsansky, A. B.**, Kreyenmeier, P., Spering, M. and Altshuler, D. L. (2025). [Hummingbirds use compensatory eye movements to stabilize both rotational and translational visual motion.](https://doi.org/10.1098/rspb.2024.2015) Proceedings of the Royal Society B: Biological Sciences 291, 1–12. [PDF](pdfs/2025_lapsansky_hummingbirds.pdf){.btn-red-rounded .external target="_blank"} 
+
+-   Altshuler, D. L., Baliga, V. B., **Lapsansky, A. B.**, Lee, P., Press, E. R. and Theriault, J. S. (2025). [Understanding mechanisms of avian flight by integrating observations with tests of competing hypotheses](https://doi.org/10.1242/jeb.247992) 228, JEB247992. [PDF](pdfs/2025_altshuler_JEB.pdf){.btn-red-rounded .external target="_blank"} 
+
+
 ## 2024
 
-* **Lapsansky, A. B.**, Kreyenmeier, P., Spering, M. and Altshuler, D. L. (2024). [Hummingbirds use compensatory eye movements to stabilize both rotational and translational visual motion. Proceedings of the Royal Society B: Biological Sciences](https://doi.org/10.1098/rspb.2024.2015) 291, 1–12. [PDF](pdfs/2024_lapsansky_hummingbirds.pdf){.btn-red-rounded .external target="_blank"} ***ACCEPTED***
-
-* Dash, S., Baliga, V. B., **Lapsansky, A. B.**, Wylie, D. R. and Altshuler, D. L. (2024). [Encoding of global visual motion in the avian pretectum shifts from a bias for temporal-to-nasal selectivity to omnidirectional excitation across speeds.](https://doi.org/10.1523/ENEURO.0301-24.2024) eNeuro ENEURO.0301-24.2024. [PDF](pdfs/2024_dash_global_visual_motion.pdf){.btn-red-rounded .external target="_blank"}
+-   Dash, S., Baliga, V. B., **Lapsansky, A. B.**, Wylie, D. R. and Altshuler, D. L. (2024). [Encoding of global visual motion in the avian pretectum shifts from a bias for temporal-to-nasal selectivity to omnidirectional excitation across speeds.](https://doi.org/10.1523/ENEURO.0301-24.2024) eNeuro ENEURO.0301-24.2024. [PDF](pdfs/2024_dash_global_visual_motion.pdf){.btn-red-rounded .external target="_blank"}
 
 ## 2023
 
-* Shah, A. A., Hotaling, S., **Lapsansky, A. B.**, Malison, R. L., Birrell, J. H., Keeley, T., Giersch, J. J., Tronstad, L. M. and Woods, H. A. (2023). [Warming undermines emergence success in a threatened alpine stonefly: A multi-trait perspective on vulnerability to climate change.](https://doi.org/10.1111/1365-2435.14284) Functional Ecology 37, 1033–1043. [PDF](pdfs/2023_shah_warming_undermines.pdf){.btn-red-rounded .external target="_blank"}
+-   Shah, A. A., Hotaling, S., **Lapsansky, A. B.**, Malison, R. L., Birrell, J. H., Keeley, T., Giersch, J. J., Tronstad, L. M. and Woods, H. A. (2023). [Warming undermines emergence success in a threatened alpine stonefly: A multi-trait perspective on vulnerability to climate change.](https://doi.org/10.1111/1365-2435.14284) Functional Ecology 37, 1033–1043. [PDF](pdfs/2023_shah_warming_undermines.pdf){.btn-red-rounded .external target="_blank"}
 
 ## 2022
 
-* **Lapsansky, A. B.** and Armstrong, R. H. (2022). [Common Mergansers Mergus merganser use wings to pursue a fish underwater.](http://www.marineornithology.org/article?rn=1475) Marine Ornithology 50, 111–114. [PDF](pdfs/2022_lapsansky_common_mergansers.pdf){.btn-red-rounded .external target="_blank"}
+-   **Lapsansky, A. B.** and Armstrong, R. H. (2022). [Common Mergansers Mergus merganser use wings to pursue a fish underwater.](http://www.marineornithology.org/article?rn=1475) Marine Ornithology 50, 111–114. [PDF](pdfs/2022_lapsansky_common_mergansers.pdf){.btn-red-rounded .external target="_blank"}
 
-* **Lapsansky, A. B.**, Warrick, D. R. and Tobalske, B. W. (2022). [High Wing-Loading Correlates with Dive Performance in Birds, Suggesting a Strategy to Reduce Buoyancy.](https://doi.org/10.1093/icb/icac117) Integrative and Comparative Biology 62, 878–889. [PDF](pdfs/2022_lapsansky_high_wing_loading.pdf){.btn-red-rounded .external target="_blank"}
+-   **Lapsansky, A. B.**, Warrick, D. R. and Tobalske, B. W. (2022). [High Wing-Loading Correlates with Dive Performance in Birds, Suggesting a Strategy to Reduce Buoyancy.](https://doi.org/10.1093/icb/icac117) Integrative and Comparative Biology 62, 878–889. [PDF](pdfs/2022_lapsansky_high_wing_loading.pdf){.btn-red-rounded .external target="_blank"}
 
 ## 2020
 
-* **Lapsansky, A. B.**, Zatz, D. and Tobalske, B. W. (2020). [Alcids ‘fly’ at efficient Strouhal numbers in both air and water but vary stroke velocity and angle.](https://doi.org/10.7554/eLife.55774) eLife 9, e55774. [PDF](pdfs/2020_lapsansky_alcids_fly.pdf){.btn-red-rounded .external target="_blank"}
+-   **Lapsansky, A. B.**, Zatz, D. and Tobalske, B. W. (2020). [Alcids ‘fly’ at efficient Strouhal numbers in both air and water but vary stroke velocity and angle.](https://doi.org/10.7554/eLife.55774) eLife 9, e55774. [PDF](pdfs/2020_lapsansky_alcids_fly.pdf){.btn-red-rounded .external target="_blank"}
 
 ## 2019
 
-* **Lapsansky, A. B.** and Tobalske, B. W. (2019). [Upstroke-based acceleration and head stabilization are the norm for the wing-propelled swimming of alcid seabirds.](
-https://doi.org/10.1242/jeb.201285
-) J Exp Biol 222, jeb201285. [PDF](pdfs/2019_lapsansky_upstroke_based_acceleration.pdf){.btn-red-rounded .external target="_blank"}
+-   **Lapsansky, A. B.** and Tobalske, B. W. (2019). [Upstroke-based acceleration and head stabilization are the norm for the wing-propelled swimming of alcid seabirds.](https://doi.org/10.1242/jeb.201285) J Exp Biol 222, jeb201285. [PDF](pdfs/2019_lapsansky_upstroke_based_acceleration.pdf){.btn-red-rounded .external target="_blank"}
 
-* **Lapsansky, A. B.**, Igoe, J. A. and Tobalske, B. W. (2019). [Zebra finch (Taeniopygia guttata) shift toward aerodynamically efficient flight kinematics in response to an artificial load.](
-https://doi.org/10.1242/bio.042572
-) Biology Open 8, bio042572. [PDF](pdfs/2019_lapsansky_zebra_finch.pdf){.btn-red-rounded .external target="_blank"}
-
+-   **Lapsansky, A. B.**, Igoe, J. A. and Tobalske, B. W. (2019). [Zebra finch (Taeniopygia guttata) shift toward aerodynamically efficient flight kinematics in response to an artificial load.](https://doi.org/10.1242/bio.042572) Biology Open 8, bio042572. [PDF](pdfs/2019_lapsansky_zebra_finch.pdf){.btn-red-rounded .external target="_blank"}

@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Copyright 2025 | Anthony Lapsansky"
+  navbar:
+    title: Anthony Lapsansky
+    right:
+      - text: Publications
+        href: publications.qmd
+      - text: Research
+        href: research/index.qmd
+        # text: Resources
+        #  href: resources/index.qmd
+        # menu:
+        #   - text: "Avian gaze-related behaviors"
+        #     href: avian_gaze.qmd
+        #   - text: "More to come"
+      - text: Curriculum vitae
+        href: curriculum_vitae.qmd
+      
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    linkcolor: "black"
+    

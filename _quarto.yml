@@ -13,8 +13,8 @@ website:
         href: publications.qmd
       - text: Research
         href: research/index.qmd
-      # text: Resources
-      #  href: resources/index.qmd
+        # text: Resources
+        #  href: resources/index.qmd
         # menu:
         #   - text: "Avian gaze-related behaviors"
         #     href: avian_gaze.qmd

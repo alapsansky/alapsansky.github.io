@@ -23,15 +23,17 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 I'm Anthony Lapsansky, but you can call me Tony! I work at Northwest Indian College, where I am a **Senior Researcher** within the [Salish Sea Research Center](https://www.salishsearesearchcenter.com/){.external target="_blank"}.
 
-I study how animals move – through complex environments, in groups, and across gradients. To do this, I combine methods from **biomechanics**, **morphometrics**, **evolutionary biology**, and **neuroscience**. Most research on animal movement has relied on simple, constrained conditions. But movement in nature is so much more than that! For example, the ability of birds to maneuver through understory, harness air currents, and cross oceans is why we find them fascinating. Moreover, this ability is key to their success. My research aims to bridge the gaps in our understanding of animal movement; using a comparative approach to develop hypotheses and conducting detailed field and lab studies with carefully chosen models to test those hypotheses. 
+I study how animals move – through complex environments, in groups, and across gradients. To do this, I combine methods from **biomechanics**, **morphometrics**, **evolutionary biology**, and **neuroscience**. Most research on animal movement has relied on simple, constrained conditions. But movement in nature is so much more than that! For example, the ability of birds to maneuver through understory, harness air currents, and cross oceans is why we find them fascinating. Moreover, this ability is key to their success. My research aims to bridge the gaps in our understanding of animal movement; using a comparative approach to develop hypotheses and conducting detailed field and lab studies with carefully chosen models to test those hypotheses.
 
-In my current position, I use this approach to ensure Indigenous food safety and train the next generation of scientists to conduct research that supports healthy, clean, and vibrant environments that sustain tribal communities. 
+In my current position, I use this approach to ensure Indigenous food safety and train the next generation of scientists to conduct research that supports healthy, clean, and vibrant environments that sustain tribal communities.
 
 ## Education
-University of Montana \| Missoula, MT \| 2016 - 2021 \
+
+University of Montana \| Missoula, MT \| 2016 - 2021\
 Gonzaga University \| Spokane, WA \| 2012 - 2016
 
 ## Experience
-Falconer, Airstrike Bird Control \| Lynden, WA \| 2013-2016 \
-University of British Columbia \| Vancouver, BC \| 2021 - 2024 \
+
+Falconer, Airstrike Bird Control \| Lynden, WA \| 2013-2016\
+University of British Columbia \| Vancouver, BC \| 2021 - 2024\
 Northwest Indian College \| Bellingham, WA \| 2024 - present
